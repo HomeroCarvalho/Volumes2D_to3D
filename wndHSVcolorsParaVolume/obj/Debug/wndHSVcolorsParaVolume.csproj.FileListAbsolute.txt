@@ -1,0 +1,29 @@
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe.config
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csprojResolveAssemblyReference.cache
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.Properties.Resources.resources
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.wndWindow.resources
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csproj.GenerateResource.Cache
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe.config
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.Properties.Resources.resources
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.wndWindow.resources
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csproj.GenerateResource.Cache
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.pdb
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.exe
+D:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.pdb
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.exe
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.pdb
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe
+F:\0_1_REPOSITORIO PROGRAMACAO\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.pdb
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe.config
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.exe
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.pdb
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.pdb
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.Properties.Resources.resources
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.wndWindow.resources
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csproj.GenerateResource.Cache
+F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csprojResolveAssemblyReference.cache
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe.config
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.exe
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.pdb

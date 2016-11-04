@@ -1,0 +1,20 @@
+Time: 03/11/2016 05:44:07  Message: 05:44:07-->Erro no carregamento do arquivo de imagem.
+Time: 03/11/2016 07:48:48  Message: 07:48:48-->Erro no carregamento do arquivo de imagem.
+Time: 03/11/2016 11:54:12  Message: 11:54:12-->Imagem processada salva com sucesso.
+Time: 03/11/2016 12:24:28  Message: 12:24:28-->Imagem processada salva com sucesso.
+Time: 03/11/2016 12:29:46  Message: 12:29:46-->Imagem processada salva com sucesso.
+Time: 03/11/2016 12:41:11  Message: 12:41:11-->Imagem processada salva com sucesso.
+Time: 03/11/2016 12:49:39  Message: 12:49:39-->Imagem processada salva com sucesso.
+Time: 03/11/2016 16:36:23  Message: 16:36:23-->You choice a grid format for 3d image drawing!
+Time: 03/11/2016 16:36:28  Message: 16:36:28-->You choice a fill format for 3d image drawing!
+Time: 03/11/2016 16:36:32  Message: 16:36:32-->You choice a fill format for 3d image drawing!
+Time: 03/11/2016 16:37:06  Message: 16:37:06-->You choice a grid format for 3d image drawing!
+Time: 03/11/2016 16:37:10  Message: 16:37:10-->You choice a fill format for 3d image drawing!
+Time: 03/11/2016 16:56:22  Message: 16:56:22-->You choice a grid format for 3d image drawing!
+Time: 03/11/2016 16:58:51  Message: 16:58:51-->Error: try a smaller image. Software Msg Error: Parâmetro inválido.
+Time: 03/11/2016 16:59:02  Message: 16:59:02-->You choice a grid format for 3d image drawing!
+Time: 03/11/2016 17:00:08  Message: 17:00:08-->Image successfully saved.
+Time: 03/11/2016 17:00:58  Message: 17:00:58-->You choice a fill format for 3d image drawing!
+Time: 03/11/2016 17:01:26  Message: 17:01:26-->Image successfully saved.
+Time: 03/11/2016 17:12:01  Message: 17:12:01-->You choice a grid format for 3d image drawing!
+Time: 03/11/2016 17:12:05  Message: 17:12:05-->You choice a fill format for 3d image drawing!
