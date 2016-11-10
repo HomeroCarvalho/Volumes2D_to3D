@@ -36,6 +36,9 @@
             this.cmbErros = new System.Windows.Forms.ComboBox();
             this.grpBxMensagens = new System.Windows.Forms.GroupBox();
             this.cmbBxFormatChoice = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.cmbBxTypePerspective = new System.Windows.Forms.ComboBox();
             this.menuStrip1.SuspendLayout();
             this.grpBxMensagens.SuspendLayout();
             this.SuspendLayout();
@@ -114,11 +117,53 @@
             this.cmbBxFormatChoice.TabIndex = 10;
             this.cmbBxFormatChoice.SelectedIndexChanged += new System.EventHandler(this.cmbBxFormatChoice_SelectedIndexChanged);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(616, 37);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(109, 20);
+            this.label1.TabIndex = 11;
+            this.label1.Text = "Format Type";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(580, 109);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(145, 20);
+            this.label2.TabIndex = 12;
+            this.label2.Text = "Perspective Type";
+            // 
+            // cmbBxTypePerspective
+            // 
+            this.cmbBxTypePerspective.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbBxTypePerspective.FormattingEnabled = true;
+            this.cmbBxTypePerspective.Items.AddRange(new object[] {
+            "Isometric",
+            "Geometric",
+            "Formal Isometric",
+            "Dimetric NEN-ISO",
+            "Dimetric Chinese Scroll Paints",
+            "Dimetric Computer Games Side View",
+            "Dimetric Computer Games top View",
+            "Isometric Computer Games"});
+            this.cmbBxTypePerspective.Location = new System.Drawing.Point(731, 109);
+            this.cmbBxTypePerspective.Name = "cmbBxTypePerspective";
+            this.cmbBxTypePerspective.Size = new System.Drawing.Size(243, 28);
+            this.cmbBxTypePerspective.TabIndex = 13;
+            this.cmbBxTypePerspective.SelectedIndexChanged += new System.EventHandler(this.cmbBxTypePerspective_SelectedIndexChanged);
+            // 
             // wndWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1001, 620);
+            this.Controls.Add(this.cmbBxTypePerspective);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.cmbBxFormatChoice);
             this.Controls.Add(this.grpBxMensagens);
             this.Controls.Add(this.menuStrip1);
@@ -143,6 +188,9 @@
         private System.Windows.Forms.GroupBox grpBxMensagens;
         public System.Windows.Forms.ComboBox cmbErros;
         private System.Windows.Forms.ComboBox cmbBxFormatChoice;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ComboBox cmbBxTypePerspective;
     }
 }
 

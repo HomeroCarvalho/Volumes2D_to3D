@@ -27,3 +27,9 @@ F:\0_1_REPOSITORIO PROGRAMACAO até 01.11.2016\C# GAMES PROJECTS\wndHSVcolorsPar
 P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe.config
 P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.exe
 P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.pdb
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.exe
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\bin\Debug\wndHSVcolorsParaVolume.pdb
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.Properties.Resources.resources
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.wndWindow.resources
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csproj.GenerateResource.Cache
+P:\wndHSVcolorsParaVolume\wndHSVcolorsParaVolume\obj\Debug\wndHSVcolorsParaVolume.csprojResolveAssemblyReference.cache

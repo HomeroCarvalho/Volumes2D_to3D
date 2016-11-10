@@ -18,3 +18,98 @@ Time: 03/11/2016 17:00:58  Message: 17:00:58-->You choice a fill format for 3d i
 Time: 03/11/2016 17:01:26  Message: 17:01:26-->Image successfully saved.
 Time: 03/11/2016 17:12:01  Message: 17:12:01-->You choice a grid format for 3d image drawing!
 Time: 03/11/2016 17:12:05  Message: 17:12:05-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 16:51:33  Message: 16:51:33-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 16:51:40  Message: 16:51:40-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 16:51:56  Message: 16:51:56-->Error: try a smaller image. Software Msg Error: Parâmetro inválido.
+Time: 04/11/2016 16:52:39  Message: 16:52:39-->Error: try a smaller image. Software Msg Error: Parâmetro inválido.
+Time: 04/11/2016 16:55:59  Message: 16:55:59-->You choice a grid format for 3d image drawing!
+Time: 04/11/2016 16:55:59  Message: 16:55:59-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 16:56:00  Message: 16:56:00-->You choice a grid format for 3d image drawing!
+Time: 04/11/2016 16:56:01  Message: 16:56:01-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 16:56:12  Message: 16:56:12-->You choice the isometric perspective for 3D image drawing!
+Time: 04/11/2016 16:56:21  Message: 16:56:21-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 16:56:22  Message: 16:56:22-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 16:57:26  Message: 16:57:26-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 16:58:03  Message: 16:58:03-->Error in loading initial image
+Time: 04/11/2016 16:58:08  Message: 16:58:08-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 16:58:11  Message: 16:58:11-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 16:58:42  Message: 16:58:42-->Image successfully saved.
+Time: 04/11/2016 17:06:45  Message: 17:06:45-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:06:47  Message: 17:06:47-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:06:59  Message: 17:06:59-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 17:06:59  Message: 17:06:59-->You choice the isometric perspective for 3D image drawing!
+Time: 04/11/2016 17:07:00  Message: 17:07:00-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 17:07:00  Message: 17:07:00-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:07:01  Message: 17:07:01-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 17:07:01  Message: 17:07:01-->You choice the isometric perspective for 3D image drawing!
+Time: 04/11/2016 17:07:01  Message: 17:07:01-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 17:07:02  Message: 17:07:02-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:07:34  Message: 17:07:34-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:07:37  Message: 17:07:37-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:08:21  Message: 17:08:21-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:08:23  Message: 17:08:23-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:10:47  Message: 17:10:47-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:10:50  Message: 17:10:50-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:11:44  Message: 17:11:44-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:11:47  Message: 17:11:47-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:12:40  Message: 17:12:40-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:12:42  Message: 17:12:42-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:14:08  Message: 17:14:08-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:14:11  Message: 17:14:11-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:16:28  Message: 17:16:28-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:16:30  Message: 17:16:30-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 17:17:43  Message: 17:17:43-->Error in loading initial image
+Time: 04/11/2016 17:17:49  Message: 17:17:49-->You choice a fill format for 3d image drawing!
+Time: 04/11/2016 17:17:52  Message: 17:17:52-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 04/11/2016 17:18:03  Message: 17:18:03-->You choice the geometric perspective for 3D image drawing!
+Time: 04/11/2016 17:23:01  Message: 17:23:01-->You choice a fill format for 3d image drawing!
+Time: 06/11/2016 06:04:37  Message: 06:04:37-->You choice a fill format for 3d image drawing!
+Time: 06/11/2016 06:04:40  Message: 06:04:40-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 06/11/2016 06:05:04  Message: 06:05:04-->You choice the geometric perspective for 3D image drawing!
+Time: 06/11/2016 06:05:18  Message: 06:05:18-->Image successfully saved.
+Time: 06/11/2016 06:10:14  Message: 06:10:14-->You choice a fill format for 3d image drawing!
+Time: 06/11/2016 06:10:16  Message: 06:10:16-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 06/11/2016 06:10:46  Message: 06:10:46-->You choice the geometric perspective for 3D image drawing!
+Time: 06/11/2016 06:10:48  Message: 06:10:48-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 06/11/2016 06:12:31  Message: 06:12:31-->You choice a fill format for 3d image drawing!
+Time: 06/11/2016 06:12:34  Message: 06:12:34-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 06/11/2016 06:12:55  Message: 06:12:55-->Image successfully saved.
+Time: 07/11/2016 09:53:11  Message: 09:53:11-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 09:53:14  Message: 09:53:14-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 07/11/2016 09:53:51  Message: 09:53:51-->You choice the geometric perspective for 3D image drawing!
+Time: 07/11/2016 09:54:23  Message: 09:54:23-->Image successfully saved.
+Time: 07/11/2016 09:54:24  Message: 09:54:24-->You choice the isometric perspective for 3D image drawing!
+Time: 07/11/2016 09:55:34  Message: 09:55:34-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 09:55:37  Message: 09:55:37-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 07/11/2016 09:56:06  Message: 09:56:06-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 09:56:08  Message: 09:56:08-->You choice the isometric perspective for 3D image drawing!
+Time: 07/11/2016 09:56:16  Message: 09:56:16-->Error: try a smaller image. Software Msg Error: Parâmetro inválido.
+Time: 07/11/2016 09:56:46  Message: 09:56:46-->Image successfully saved.
+Time: 07/11/2016 09:58:39  Message: 09:58:39-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 09:58:41  Message: 09:58:41-->You choice the isometric perspective for 3D image drawing!
+Time: 07/11/2016 10:00:42  Message: 10:00:42-->Error in loading initial image
+Time: 07/11/2016 10:00:45  Message: 10:00:45-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 10:00:48  Message: 10:00:48-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 07/11/2016 10:12:50  Message: 10:12:50-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 10:12:53  Message: 10:12:53-->You choice the isometric perspective for 3D image drawing!
+Time: 07/11/2016 10:13:26  Message: 10:13:26-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 07/11/2016 10:26:11  Message: 10:26:11-->You choice a fill format for 3d image drawing!
+Time: 07/11/2016 10:26:13  Message: 10:26:13-->You choice the the Wikipedia isometric perspective for 3D imagem drawing!
+Time: 08/11/2016 04:05:36  Message: 04:05:36-->You choice a fill format for 3d image drawing!
+Time: 08/11/2016 04:09:16  Message: 04:09:16-->You choice a fill format for 3d image drawing!
+Time: 08/11/2016 04:09:19  Message: 04:09:19-->You choice the the configurator isometric perspective for 3D imagem drawing!
+Time: 09/11/2016 12:51:24  Message: 12:51:24-->You choice a grid format for 3d image drawing!
+Time: 09/11/2016 12:52:06  Message: 12:52:06-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 12:55:15  Message: 12:55:15-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 12:59:53  Message: 12:59:53-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:05:05  Message: 13:05:05-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:07:40  Message: 13:07:40-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:09:42  Message: 13:09:42-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:11:14  Message: 13:11:14-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:13:28  Message: 13:13:28-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:13:43  Message: 13:13:43-->Error: try a smaller image. Software Msg Error: Parâmetro inválido.
+Time: 09/11/2016 13:32:03  Message: 13:32:03-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 13:32:14  Message: 13:32:14-->Error: try a smaller image. Software Msg Error: Parâmetro inválido.
+Time: 09/11/2016 13:32:55  Message: 13:32:55-->You choice a grid format for 3d image drawing!
+Time: 09/11/2016 16:25:26  Message: 16:25:26-->You choice a fill format for 3d image drawing!
+Time: 09/11/2016 16:25:59  Message: 16:25:59-->You choice a grid format for 3d image drawing!

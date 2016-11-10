@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="processamentoDeCores\corHSV.cs" />
     <Compile Include="Utils\Log.cs" />
+    <Compile Include="Utils\uMatrizes.cs" />
     <Compile Include="wndWindow.cs">
       <SubType>Form</SubType>
     </Compile>
